@@ -1,3 +1,12 @@
-h2 {
-    border-radius: 5px;
+#first-box {
+    border: 2px solid black;
+}
+
+
+#second-box {
+    border: 2px solid black;
+    position: relative;
+    width:auto;
+    height: auto;
+    text-align: left;
 }
